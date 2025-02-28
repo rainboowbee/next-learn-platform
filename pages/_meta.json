@@ -1,0 +1,15 @@
+{
+  "index": "Введение",
+  "another": "Другая папка",
+  "advanced": "Python",
+  "about": {
+    "title": "О нас",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Контакты ↗",
+    "type": "page",
+    "href": "https://t.me/rainboowbee",
+    "newWindow": true
+  }
+}
