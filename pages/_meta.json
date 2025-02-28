@@ -1,9 +1,6 @@
 {
-  "index": "Введение",
-  "another": "Другая папка",
-  "advanced": "Python",
   "about": {
-    "title": "О нас",
+    "title": "О нас", 
     "type": "page"
   },
   "contact": {
@@ -11,5 +8,8 @@
     "type": "page",
     "href": "https://t.me/rainboowbee",
     "newWindow": true
-  }
+  }, 
+  "index": "Введение",
+  "another": "Другая папка",
+  "advanced": "Python"
 }
