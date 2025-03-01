@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/advanced/print": [
+    "/advanced/variable": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/advanced/print.js"
+      "static/chunks/pages/advanced/variable.js"
     ]
   },
   "ampFirstPages": []
