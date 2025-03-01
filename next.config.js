@@ -4,7 +4,7 @@ const withNextra = require("nextra")({
 });
 
 module.exports = withNextra({
-  output: "export",
+  output: "standalone",
   distDir: "out",
   trailingSlash: true,
 });
