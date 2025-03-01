@@ -1,7 +1,8 @@
 {
   "index": "Введение",
-  "another": "Другая папка",
   "advanced": "Python",
+  "OGE": "ОГЭ",
+  "EGE": "ЕГЭ",
   "about": {
     "title": "О нас",
     "type": "page"

@@ -7,9 +7,6 @@ const config: DocsThemeConfig = {
     link: "https://github.com/rainboowbee/next-learn-platform.git",
   },
   docsRepositoryBase: "https://github.com/rainboowbee/next-learn-platform.git",
-  footer: {
-    text: "BitLab",
-  },
 };
 
 export default config;
